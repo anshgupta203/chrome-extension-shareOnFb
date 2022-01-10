@@ -7,4 +7,4 @@ To install the extension on your local machine-
 3. Click Load Unpacked Extension and select the directory for your "Hello World" extension.
 
 Now enable the extension if it isn't, and it should look something like this
-![](image/extension.png)
+![](image/extension.PNG)
