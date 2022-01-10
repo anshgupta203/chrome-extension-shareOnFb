@@ -1,6 +1,6 @@
 {
   "name": "My Chrome Extension",
-  "description": "Shows a menu item",
+  "description": "Share an image/quote",
   "version": "0.3",
   "permissions": ["contextMenus", "activeTab"],
   "icons": { "16": "16.png", "48": "48.png", "64": "64.png", "128": "128.png" },
